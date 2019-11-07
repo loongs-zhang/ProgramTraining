@@ -17,7 +17,6 @@ public class Solution18 {
 
         public TreeNode(int val) {
             this.val = val;
-
         }
 
     }
